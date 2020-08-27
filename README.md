@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 _Blog Mangament system❤️ is designed to provide the basis functionality of the CRUD Application using core  PHP as the middleware and MySQl DB  as the backend_
 
